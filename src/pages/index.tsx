@@ -3,5 +3,5 @@ export default function Home() {
     <div>
       <h1>Hello vercel!</h1>
     </div>
-  )
+  );
 }
